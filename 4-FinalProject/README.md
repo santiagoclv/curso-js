@@ -19,6 +19,3 @@ npm install --save-dev @babel/plugin-proposal-optional-chaining
 
 ```
 
-# MVC
-
-
